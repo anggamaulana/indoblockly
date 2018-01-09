@@ -7,3 +7,7 @@ demo maze : demos/maze/index.php
 
 
 ![alt text](a.png "Indoblockly")
+
+![alt text](b.png "Indoblockly custom map")
+
+![alt text](c.png "Indoblockly maze")
